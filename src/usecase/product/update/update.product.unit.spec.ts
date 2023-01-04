@@ -1,4 +1,3 @@
-import { fn } from "sequelize/types"
 import ProductFactory from "../../../domain/product/factory/product.factory";
 import UpdateProductUseCase from "./update.product.usecase";
 

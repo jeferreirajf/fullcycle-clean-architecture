@@ -1,6 +1,4 @@
-import Product from "../../../domain/product/entity/product";
 import ProductInterface from "../../../domain/product/entity/product.interface";
-import ProductFactory from "../../../domain/product/factory/product.factory";
 import ProductRepositoryInterface from "../../../domain/product/repository/product-repository.interface";
 import { InputUpdateProductDto, OutputUpdateProductDto } from "./update.product.dto";
 
